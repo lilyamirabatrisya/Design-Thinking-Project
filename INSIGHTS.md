@@ -17,9 +17,7 @@ This project applied the **Design Thinking methodology** to develop an interacti
 
 ### **Project Files & Resources**
 - [Download Full Project Report (DOCX)](/files/DTP-Report.docx)
-- [View Project Video](/files/project-video.mp4)
-- [Visit Prototype Website](https://xinyanchen2006.wixsite.com/my-site-1)
-
+  
 ---
 
 ## **The Design Thinking Process**
@@ -29,9 +27,6 @@ We began by deeply understanding our users through:
 - **Surveys** via Google Forms to gather insights
 - **Interviews** with psychology students and ADHD-aware individuals
 - **Research** on ADHD challenges and learning patterns
-
-![Survey Results](/media/survey-screenshot.png)
-*Example of our survey questions and responses*
 
 ### **2. Define Phase**
 **Problem Statement:**  
@@ -49,9 +44,6 @@ Created a functional prototype featuring:
 - **Home Page**: User-friendly interface
 - **Playground**: Three types of activities with multiple levels
 - **Contact Section**: Support access for parents/guardians
-
-![Prototype Interface](/media/prototype-screenshot.png)
-*Our application prototype interface*
 
 ### **5. Test Phase**
 Conducted usability testing with:
@@ -102,9 +94,8 @@ To enhance my potential in the industry, I will:
 4. **Build a portfolio** of personal projects on GitHub
 5. **Network with professionals** through university and online platforms
 
-### **🎥 Project Demonstration**
-[Watch our project video demonstration](/files/project-video.mp4)
-*Video showing our prototype in action and team discussions*
+### **🎥 Project Snip**
+[Watch the snip to our project](/NeuroGame.MOV)
 
 ---
 
@@ -116,7 +107,7 @@ Our team worked effectively through:
 - **Open communication** channels for feedback and updates
 - **Shared documentation** using Google Drive and collaborative tools
 
-![Team Collaboration](/media/team-photo.jpg)
+![Team Collaboration](DTP-Discussion.jpg)
 *Our team working together on the project*
 
 ---
@@ -176,12 +167,3 @@ The most valuable lesson was learning to **listen before building**—to underst
 *Email: [Your Email]*  
 *LinkedIn: [Your LinkedIn Profile Link]*  
 
----
-
-## **Project Files Available for Download**
-- 📄 [Full Project Report (DOCX)](/files/DTP-Report.docx)
-- 🎬 [Project Demonstration Video](/files/project-video.mp4)
-- 🖼️ [Prototype Screenshots](/media/)
-- 📊 [Survey Data & Analysis](/files/survey-data.pdf)
-
-*Note: Replace file paths with actual paths once you upload files to your GitHub repository*
