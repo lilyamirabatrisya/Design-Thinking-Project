@@ -16,7 +16,7 @@
 This project applied the **Design Thinking methodology** to develop an interactive learning application for children aged 5-9 with **Attention Deficit Hyperactivity Disorder (ADHD)**. Our goal was to create an engaging digital solution that helps ADHD children improve their focus while learning basic skills like reading, writing, and arithmetic.
 
 ### **Project Files & Resources**
-- [Download Full Project Report (PDF)](/files/DTP-Report.pdf)
+[View ful report in PDF](DTP-Report.pdf)
   
 ---
 
