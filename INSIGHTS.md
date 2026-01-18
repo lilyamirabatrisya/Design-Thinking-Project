@@ -16,7 +16,7 @@
 This project applied the **Design Thinking methodology** to develop an interactive learning application for children aged 5-9 with **Attention Deficit Hyperactivity Disorder (ADHD)**. Our goal was to create an engaging digital solution that helps ADHD children improve their focus while learning basic skills like reading, writing, and arithmetic.
 
 ### **Project Files & Resources**
-[View ful report in PDF](DTP-Report.pdf)
+[View full report in PDF](DTP-Report.pdf)
   
 ---
 
@@ -160,10 +160,10 @@ The most valuable lesson was learning to **listen before building**—to underst
 
 ---
 
-*Posted by:*  
-**Lily Amira Batrisya binti Shahrul Sham (A25CS0082)**  
-*Bachelor of Computer Science, Universiti Teknologi Malaysia*  
-*GitHub: [Your GitHub Profile Link]*  
-*Email: [Your Email]*  
-*LinkedIn: [Your LinkedIn Profile Link]*  
+*Posted with gratitude,*  
+**Lily Amira Batrisya binti Shahrul Sham**  
+*Faculty of Computing, Universiti Teknologi Malaysia*  
+*You can reach out to me at:*  
+*Personal email: lilyamirabatrisya@gmail.com*  
+*Student email: lilyamirabatrisya@graduate.utm.my*  
 
