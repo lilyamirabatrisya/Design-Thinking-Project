@@ -3,7 +3,7 @@
 **Course:** Technology and Information Systems (SECP1513)  
 **Task:** Design Thinking Project
 **Lecturer:** Dr. Azurah  
-**Team:** 
+**Team Members:** 
 1) Lily Amira Batrisya
 2) Chen Xin Yan
 3) Muhammad Adib
