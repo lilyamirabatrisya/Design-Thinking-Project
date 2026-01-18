@@ -1,8 +1,11 @@
 # Design Thinking Project: ADHD Learning Application for Children
 
 **Course:** Technology and Information Systems (SECP1513)  
+
 **Task:** Design Thinking Project
+
 **Lecturer:** Dr. Azurah  
+
 **Team Members:** 
 1) Lily Amira Batrisya
 2) Chen Xin Yan
